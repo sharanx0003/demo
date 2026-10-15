@@ -5,7 +5,7 @@ int a,b,choice;
 printf("Enter two numbers: ");
 scanf("%d %d",&a,&b);
 printf("enter the choice:");
-scanf("%d",& choice);
+scanf("%d",&choice);
 printf("1 add\n");
 printf("2 sub\n");
 printf("3 mul\n");
